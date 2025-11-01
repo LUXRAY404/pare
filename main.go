@@ -67,7 +67,7 @@ func banner() {
 	color.Cyan("\n╔═╗┌─┐┬─┐┌─┐┬─┐┌─┐┬─┐┌─┐┬─┐  ╔═╗╔═╗╦╔╗╔╔╦╗╔═╗╦═╗")
 	color.Cyan("╚═╗├┤ ├┬┘├┤ ├┬┘├─┤├┬┘├─┤├┬┘  ╠═╝║╣ ║║║║ ║ ║╣ ╠╦╝")
 	color.Cyan("╚═╝└─┘┴└─└─┘┴└─┴ ┴┴└─┴ ┴┴└─  ╩  ╚═╝╩╝╚╝ ╩ ╚═╝╩╚═")
-	color.Magenta("       ⚡ ParaFinder Ultra — Advanced Recon Toolkit ⚡\n")
+	color.Magenta("       ⚡ ParaFinder ⚡\n")
 }
 
 func containsSkipExt(u string) bool {
